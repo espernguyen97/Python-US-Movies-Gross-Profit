@@ -23,12 +23,23 @@ Task 2: US Gross categorized by Genre in different Studios
 
 <hr>
 
+Task 1: 
+
+The Day of Week the movies were released
 <br>
 <br>
 
-![](img/data1.png)
+![](img/task1.png)
+<br>
+<br>
+Task 2: 
+
+US Gross categorized by Genre in different Studios
+<br>
+<br>
+![](img/task2.png)
 <br>
 <br>
 Conclusion:
 
-The majority of movies were launched on Friday and Wednesday and only a few movies were launched on Thursday and Tuesday while no movie was released on Monday. Between 1939 and 2015, majority of studios earnd most gross profits from action movies and action was the highest-grossing movie genre during this period of time.
+The majority of movies were launched on Friday and Wednesday and only a few movies were launched on Thursday and Tuesday while no movie was released on Monday. Between 1939 and 2015, for many studios, action was the highest-grossing movie genre during this period of time. For Buena Vista Studios, the majority of gross income comes from animation while comedy was a high grossing genre for Universal. 
