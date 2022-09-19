@@ -27,7 +27,7 @@ The Day of Week the movies were released
 <br>
 <br>
 
-![](img/task1.png)
+![](images/task1.png)
 <br>
 <br>
 Task 2: 
@@ -35,7 +35,7 @@ Task 2:
 US Gross categorized by Genre in different Studios
 <br>
 <br>
-![](img/task2.png)
+![](images/task2.png)
 <br>
 <br>
 Conclusion:
