@@ -10,7 +10,7 @@ The project was provided by SuperDataScience website. The dataset contains the d
 Using Python to perform data manipulation, data visualization, and analyze US Box Office' Gross based off the historical data given.
 <br>
 <br>
-3. What are the task given?: 
+3. What are the tasks given?: 
 
 Through the data given, I'm looking for:
 
