@@ -3,39 +3,22 @@ US Movies Gross Profit Analysis Project
 <br>
 1. About the data: 
 
-The project was provided by SuperDataScience website. The dataset contains the data of 609 US movies from 1939 to 2015 along with their Director, Movie Genre,	Movie Title, Release Date, Studio,	Adjusted Gross ($mill),	Budget ($mill),	Gross ($mill),	IMDb Rating, Movie Lenghth,  Day of Week released, Overseas ($mill),	Overseas%,	Profit ($mill),	Profit%,	Runtime (min),	US ($mill),	Gross % US
-<br>
-<br>
+The project was provided by SuperDataScience website. The dataset contains the data of 609 US movies from 1939 to 2015 along with their Director, Movie Genre,	Movie Title, Release Date, Studio,	Adjusted Gross ($mill),	Budget ($mill),	Gross ($mill),	IMDb Rating, Movie Lenghth,  Day of Week a movie was released, Overseas ($mill),	Overseas%,	Profit ($mill),	Profit%,	Runtime (min),	US ($mill),	Gross % US. All data has been  openly available in the CSV file.
+
 2. Goal: 
 
-Using Python to perform data manipulation and analyze the world trends in different time periods based off the historical data given.
+Using Python to perform data manipulation, data visualization, and analyze US Box Office' Gross based off the historical data given.
 <br>
 <br>
 3. What are the task given?: 
 
 Through the data given, I'm looking for:
 
-Task 1: A  scatterplot illustrating Birth Rate and Internet Usage statistics by Country.
+Task 1: The Day of Week the movies were released
 
-The scatterplot need to be categorised by Countries’ Income Groups
-
-Task 2:
-
-A scatterplot depicting Life Expectancy (y-axis) and Fertility Rate (x-axis) statistics by Country.
-
-The scatterplot need to be categrorised by Countries Regions.
-
-Task 3:
-
-A visualization based off the data for 2 years: 1960 and 2013. The data is provided for 2 years: 1960 and 2013 and there's a need to produce a visualisation for each of these years.
-
-
-Task 4: 
-
-An insights into how the periods compare.
+Task 2: US Gross categorized by Genre in different Studios
 
 <br>
-
 <br>
 
 <hr>
@@ -44,3 +27,8 @@ An insights into how the periods compare.
 <br>
 
 ![](img/data1.png)
+<br>
+<br>
+Conclusion:
+
+The majority of movies were launched on Friday and Wednesday and only a few movies were launched on Thursday and Tuesday while no movie was released on Monday. Between 1939 and 2015, majority of studios earnd most gross profits from action movies and action was the highest-grossing movie genre during this period of time.
