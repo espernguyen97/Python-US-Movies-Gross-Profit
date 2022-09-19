@@ -18,8 +18,6 @@ Task 1: The Day of Week the movies were released
 
 Task 2: US Gross categorized by Genre in different Studios
 
-<br>
-<br>
 
 <hr>
 
